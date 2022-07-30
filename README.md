@@ -1,1 +1,1 @@
-# PTC logo 256x256
+# PTC logo 
